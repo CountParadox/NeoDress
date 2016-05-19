@@ -223,7 +223,7 @@ void startShow(int i) {
             Strip.Update();
             break;
     
-    case 9:    rainbow(20);                                   
+ //   case 9:    rainbow(20);                                   
   }
 }
 uint32_t Wheel(byte WheelPos) {
